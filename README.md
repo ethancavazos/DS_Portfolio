@@ -1,2 +1,2 @@
-# DS_Portfolio
+# Portfolio
 Cool things I like to think about! 
